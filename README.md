@@ -7,3 +7,5 @@ The histogram of oriented gradients (HOG) implemented in tensorflow. Based on th
 4. Automatically pad the input images.
 5. Masking the unwanted gradients of edge pixels.
 6. Visualizing HOG image (use the codes from skimage v0.14).
+
+![compare](https://i.imgur.com/U0WJZiX.png)
